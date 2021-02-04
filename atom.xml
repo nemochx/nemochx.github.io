@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nemochx.github.io</id>
     <title>悠久机关枢纽</title>
-    <updated>2021-02-04T06:42:23.799Z</updated>
+    <updated>2021-02-04T06:42:51.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nemochx.github.io"/>
     <link rel="self" href="https://nemochx.github.io/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>https://nemochx.github.io/images/avatar.png</logo>
     <icon>https://nemochx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 悠久机关枢纽</rights>
-    <entry>
-        <title type="html"><![CDATA[现在是中文版]]></title>
-        <id>https://nemochx.github.io/post/xian-zai-shi-zhong-wen-ban/</id>
-        <link href="https://nemochx.github.io/post/xian-zai-shi-zhong-wen-ban/">
-        </link>
-        <updated>2021-02-03T04:16:40.000Z</updated>
-        <content type="html"><![CDATA[<p>中文799948304@qq.com<br>
-法语412441525@qq.com fr<br>
-画廊511560284@qq.com 1</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[机 洗 肥 皂]]></title>
         <id>https://nemochx.github.io/post/ji-xi-fei-zao/</id>
